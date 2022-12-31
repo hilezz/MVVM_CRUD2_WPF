@@ -1,0 +1,17 @@
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\bin\Debug\studentMVVM.exe.config
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\bin\Debug\studentMVVM.exe
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\bin\Debug\studentMVVM.pdb
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.csproj.AssemblyReference.cache
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\view\student.g.cs
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\App.g.cs
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM_MarkupCompile.cache
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM_MarkupCompile.lref
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\view\student.baml
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.g.resources
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.Properties.Resources.resources
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.csproj.GenerateResource.cache
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.exe
+C:\Users\Nabil\source\repos\studentMVVM\studentMVVM\obj\Debug\studentMVVM.pdb
